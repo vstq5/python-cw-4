@@ -30,7 +30,7 @@ My name is Fatima
 
 - قم بانشاء function باسم my_meal 
 - قم بانشاء two arguments باسم food & drink 
-- اجعل الـ function تقوم بطباعة اسمك بهذا الشكل:
+- اجعل الـ function تقوم بالطباعة بهذا الشكل:
 
 <div>
 
